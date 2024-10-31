@@ -1,5 +1,5 @@
 const newSiteUrl = 'https://www.mihailobont.ro';
-const countdownDuration = 10;
+const countdownDuration = 6;
 let timeLeft = countdownDuration;
 
 function updateCountdown() {
