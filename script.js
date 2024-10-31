@@ -1,4 +1,4 @@
-const newSiteUrl = 'https://mihailobont.ro';
+const newSiteUrl = 'https://www.mihailobont.ro';
 const countdownDuration = 10;
 let timeLeft = countdownDuration;
 
